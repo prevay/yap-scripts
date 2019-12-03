@@ -1,0 +1,246 @@
+File Manifest for ICPSR 36798
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, John E.
+Schulenberg, and Richard A. Miech. Monitoring the Future: A Continuing
+Study of American Youth (12th-Grade Survey), 2016. ICPSR36798-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2017-10-26. http://doi.org/10.3886/ICPSR36798.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-descriptioncitation.pdf       -       -         -       2017-10-26  -
+
+    36798-related_literature.txt        -       -         -       daily       -
+
+    36798-manifest.txt                  -       -         -       daily       -
+
+    36798-User_guide.xlsx               -       -         -       2017-10-26  52007015b8f10c1b1dfb4976c6a6b634
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0001-Codebook.pdf             -       -         -       2017-10-26  0b14198d6b56718039875e2c4573174d
+
+    36798-0001-Data.dta                 -       12,600    175     2017-10-26  4dcee76f00a03ca38cb87d7b273e3313
+
+    36798-0001-Data.rda                 -       12,600    175     2017-10-26  3be5ebc822481d750b629798c0e2e68c
+
+    36798-0001-Data.sav                 -       12,600    175     2017-10-26  62c7101ae47125dec2f84fb07ab26d06
+
+    36798-0001-Data.stc                 -       12,600    175     2017-10-26  73c11f6c4bf12ed8b38ab4f26e95b472
+
+    36798-0001-Data.tsv                 -       12,600    175     2017-10-26  71805c82941200788f857018c93cbea2
+
+    36798-0001-Data.txt                 367     12,600    175     2017-10-26  7e917ed43a1c9b97a4e6e28a0c43758d
+
+    36798-0001-Setup.dct                -       -         -       2017-10-26  d064ebe94bc2cd7020fd0cbf36295c7c
+
+    36798-0001-Setup.do                 -       -         -       2017-10-26  4d46e106d82f004081bea6f35ef8fa9e
+
+    36798-0001-Setup.sas                -       -         -       2017-10-26  0a42e18a9090eab6a43798ae28df9d46
+
+    36798-0001-Setup.sps                -       -         -       2017-10-26  3bc6af598fe3c060bc21859c74977479
+
+    36798-0001-Supplemental_syntax.do   -       -         -       2017-10-26  46355b5c0b3153c354064d7007474dd5
+
+    36798-0001-Supplemental_syntax.sas  -       -         -       2017-10-26  c8b42d506bd9f6de4a96fa83c2dedfc6
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0002-Codebook.pdf             -       -         -       2017-10-26  b34947d6ea94b83cbc631a377ed10ada
+
+    36798-0002-Data.dta                 -       2,100     613     2017-10-26  fd231664015ac5c5f8c62662a72a2fe4
+
+    36798-0002-Data.rda                 -       2,100     613     2017-10-26  79911490a705b8d9386b3060cbe08a1d
+
+    36798-0002-Data.sav                 -       2,100     613     2017-10-26  2ce0665ab8b7a3554a6a819d913e1bfb
+
+    36798-0002-Data.stc                 -       2,100     613     2017-10-26  a31f22b68e658c05d900fb95abf5d508
+
+    36798-0002-Data.tsv                 -       2,100     613     2017-10-26  5c2f8fb31403ac662fb94ff7fcc8c462
+
+    36798-0002-Data.txt                 1242    2,100     613     2017-10-26  bda3c2cb2654283f38b10e436446337d
+
+    36798-0002-Setup.dct                -       -         -       2017-10-26  2f42ac9a5d67c9fe69910fc4320b58ec
+
+    36798-0002-Setup.do                 -       -         -       2017-10-26  b80cd9ceab5c0ada7a0d75718c58c436
+
+    36798-0002-Setup.sas                -       -         -       2017-10-26  fc024a93ca03b220fd671507a010817e
+
+    36798-0002-Setup.sps                -       -         -       2017-10-26  47b6853d7170d72ceb8d47b9e7234182
+
+    36798-0002-Supplemental_syntax.do   -       -         -       2017-10-26  2f049b7d6586ce429cd61fcc64311031
+
+    36798-0002-Supplemental_syntax.sas  -       -         -       2017-10-26  004b9f9243909fed225a22e52b813280
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0003-Codebook.pdf             -       -         -       2017-10-26  6b5a44cafc37f5094c66a7c99706618c
+
+    36798-0003-Data.dta                 -       2,096     330     2017-10-26  bb7d4eacd6da2b0528147c02d7e5b55e
+
+    36798-0003-Data.rda                 -       2,096     330     2017-10-26  b49b4ebc5effdb02796fef4d5d3b9865
+
+    36798-0003-Data.sav                 -       2,096     330     2017-10-26  892bb82132ea03d7ad7847d7d3cc611b
+
+    36798-0003-Data.stc                 -       2,096     330     2017-10-26  d6af5b8a597d4eeb6ad339645dc9e4fd
+
+    36798-0003-Data.tsv                 -       2,096     330     2017-10-26  7e6580878a2907ea51bbb1eea3a30680
+
+    36798-0003-Data.txt                 676     2,096     330     2017-10-26  6bf29173779ec0472413ffbd628729b2
+
+    36798-0003-Setup.dct                -       -         -       2017-10-26  3fe044eeb5b2bb2e1e79d57f2d2fd469
+
+    36798-0003-Setup.do                 -       -         -       2017-10-26  502fdd6225f4aadf5bcfe12a07abb9fd
+
+    36798-0003-Setup.sas                -       -         -       2017-10-26  7cdf2d62b8c95527701407cd5714f8bc
+
+    36798-0003-Setup.sps                -       -         -       2017-10-26  e55ad763fd68021975b52e7af9c97c0f
+
+    36798-0003-Supplemental_syntax.do   -       -         -       2017-10-26  249d23b65d8b15bd6a0eb7c3b6c51017
+
+    36798-0003-Supplemental_syntax.sas  -       -         -       2017-10-26  33092590cfaa2e6b5e88831fb4e91a87
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0004-Codebook.pdf             -       -         -       2017-10-26  82f3bf26d137f7ee4211529968fb0c0b
+
+    36798-0004-Data.dta                 -       2,109     379     2017-10-26  402cb6be5e4a900ecb42affd32629e17
+
+    36798-0004-Data.rda                 -       2,109     379     2017-10-26  f86831c894bd1f042763aeef43248121
+
+    36798-0004-Data.sav                 -       2,109     379     2017-10-26  8e13a978be6f774d67f9dc0ad623c25a
+
+    36798-0004-Data.stc                 -       2,109     379     2017-10-26  5bacfed63d9d04cfaaa4f639e791d1ff
+
+    36798-0004-Data.tsv                 -       2,109     379     2017-10-26  622484638924229c6e9b9c2081507e8f
+
+    36798-0004-Data.txt                 774     2,109     379     2017-10-26  4c08f402dc2e1808424c5caf1c4525b3
+
+    36798-0004-Setup.dct                -       -         -       2017-10-26  0ce15c405529d5110d130e6e8aa2dcdc
+
+    36798-0004-Setup.do                 -       -         -       2017-10-26  d21c918022d927f5f0283dbe1396ea3a
+
+    36798-0004-Setup.sas                -       -         -       2017-10-26  b17554b45f71ac0aa06025c68dce8fe0
+
+    36798-0004-Setup.sps                -       -         -       2017-10-26  b479280029c6a40f574e93982cac73f6
+
+    36798-0004-Supplemental_syntax.do   -       -         -       2017-10-26  bc7226287ea8077fa718f58157d3b155
+
+    36798-0004-Supplemental_syntax.sas  -       -         -       2017-10-26  6e87e3a5a56133dce076da4e22ddb1d4
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0005-Codebook.pdf             -       -         -       2017-10-26  fcbff9d455980f9f7019035ce9abf737
+
+    36798-0005-Data.dta                 -       2,074     271     2017-10-26  25ec66b9642f45304403f697f188a374
+
+    36798-0005-Data.rda                 -       2,074     271     2017-10-26  4d044d6104f9312e709d04e2e539be5f
+
+    36798-0005-Data.sav                 -       2,074     271     2017-10-26  df3c2b2fb40f7762a11710ae1df2b75e
+
+    36798-0005-Data.stc                 -       2,074     271     2017-10-26  b0db8a3913dd63ff74363a69621a2591
+
+    36798-0005-Data.tsv                 -       2,074     271     2017-10-26  a4cd720cfb53a0d882c416715edfd187
+
+    36798-0005-Data.txt                 558     2,074     271     2017-10-26  713885d6f743a73045066d0a897f008d
+
+    36798-0005-Setup.dct                -       -         -       2017-10-26  7c54bb45c33db60c56142aff0be9e169
+
+    36798-0005-Setup.do                 -       -         -       2017-10-26  a09ec920d94269765a1561daaae9ad3e
+
+    36798-0005-Setup.sas                -       -         -       2017-10-26  620036b1a559e5bdd51d859a8c16510c
+
+    36798-0005-Setup.sps                -       -         -       2017-10-26  5a673be0f192ff22200da57ac0d44207
+
+    36798-0005-Supplemental_syntax.do   -       -         -       2017-10-26  236acaa7024867864930523e8231eb66
+
+    36798-0005-Supplemental_syntax.sas  -       -         -       2017-10-26  b430fa74778af6f14436e9edc7df7d0d
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0006-Codebook.pdf             -       -         -       2017-10-26  b0ca03e9effef6a98d000c2ef09304b6
+
+    36798-0006-Data.dta                 -       2,103     324     2017-10-26  23283a82a31abdabdc52dc0d4fa838b8
+
+    36798-0006-Data.rda                 -       2,103     324     2017-10-26  419b39280e0c1a9bbe2269e442e3ce2e
+
+    36798-0006-Data.sav                 -       2,103     324     2017-10-26  879f293438cc81b33f8036a29449cb9c
+
+    36798-0006-Data.stc                 -       2,103     324     2017-10-26  8beebc2f5f75aba378708548a759c067
+
+    36798-0006-Data.tsv                 -       2,103     324     2017-10-26  1b17c14bbe163e9bbfed9e239cebcaaf
+
+    36798-0006-Data.txt                 664     2,103     324     2017-10-26  b07fd4ae60aad18dcbe5ad09fea4cc31
+
+    36798-0006-Setup.dct                -       -         -       2017-10-26  520168876bbd3a86cabf541d37a403ab
+
+    36798-0006-Setup.do                 -       -         -       2017-10-26  a10e70e041b8ac942465bc17de13ccc2
+
+    36798-0006-Setup.sas                -       -         -       2017-10-26  4c59f49412d8e5b4282eb4feac00cd64
+
+    36798-0006-Setup.sps                -       -         -       2017-10-26  5b731a42c9d438c0776cefc70edb0e20
+
+    36798-0006-Supplemental_syntax.do   -       -         -       2017-10-26  7f252ce0033c01a63ed3985cdb28b074
+
+    36798-0006-Supplemental_syntax.sas  -       -         -       2017-10-26  46c80a6f27ef6fc3691e724727846ab9
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36798-0007-Codebook.pdf             -       -         -       2017-10-26  9465594dc5b3e10c3cf17dae9b2d3543
+
+    36798-0007-Data.dta                 -       2,118     328     2017-10-26  9c5e156f9ae8347acd288a543a9e7458
+
+    36798-0007-Data.rda                 -       2,118     328     2017-10-26  6f8c8260432acd3d9d7b3db0a9d60255
+
+    36798-0007-Data.sav                 -       2,118     328     2017-10-26  2c6b3d69eca050d1a3fffaab2a699cef
+
+    36798-0007-Data.stc                 -       2,118     328     2017-10-26  2c676a5dd3ea31100ce4e0510c35a837
+
+    36798-0007-Data.tsv                 -       2,118     328     2017-10-26  4aad1a051c85ace85ae58000f246ae71
+
+    36798-0007-Data.txt                 672     2,118     328     2017-10-26  344a1c36d82ddeb145fc87cd9fa1e163
+
+    36798-0007-Setup.dct                -       -         -       2017-10-26  507953e165337dbde2e8917e33b666ca
+
+    36798-0007-Setup.do                 -       -         -       2017-10-26  8fba1ba564b0dec7eb49b4fa61f03239
+
+    36798-0007-Setup.sas                -       -         -       2017-10-26  878db578ac57d66278c105a958d81af0
+
+    36798-0007-Setup.sps                -       -         -       2017-10-26  08b8d1765436d0746eedcd126416839c
+
+    36798-0007-Supplemental_syntax.do   -       -         -       2017-10-26  20db8ef2547dbb7b2dc1c6c3af1e69c8
+
+    36798-0007-Supplemental_syntax.sas  -       -         -       2017-10-26  0582186c4c88ee91fcccc29eac6c22d6
+

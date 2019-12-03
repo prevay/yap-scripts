@@ -1,0 +1,41 @@
+Bibliography
+Monitoring the Future: A Continuing Study of American Youth (12th-Grade
+Survey), 2016
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36798. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Coley, Rebekah Levine; O'Brien, Michael; Spielvogel, Bryn, "Secular
+trends in adolescent depressive symptoms: Growing disparities between
+advantaged and disadvantaged schools." Journal of Youth and Adolescence.
+Nov 2019, 48, (11), 2087 - 2098. DOI: 10.1007/s10964-019-01084-1
+
+2. Fine, Adam; Simmons, Cortney; Rowan, Zachary, "Do politics Trump race in
+determining America's youths' perceptions of law enforcement?." Journal of
+Criminal Justice. Jan 2019,. DOI: 10.1016/j.jcrimjus.2019.01.003
+
+3. Mendez, David; Warner, Kenneth E., "E-cigarettes: Comparing the possible
+risks of increasing smoking initiation with the potential benefits of
+increasing smoking cessation." Nicotine and Tobacco Research. Jan 2019, 21,
+(1), 41 - 47. DOI: 10.1093/ntr/nty062
+
+4. Mutak, Augustin, "Psychometric Analysis of the Usability of the Lower
+Asymptote Parameter in the Graded Response Model in Detecting Socially
+Desirable Responding." Thesis, University of Zagreb, 2018.
+
+5. Tam, Jamie; Warner, Kenneth E., "Students' cigarette smoking and the
+perceived nicotine content of their e-cigarettes." American Journal of
+Preventive Medicine. Sep 2018, 55, (3), 376 - 383. DOI:
+10.1016/j.amepre.2018.04.034
+
+6. Veliz, Philip; Eckner, James T.; Zdroik, Jennifer; Schulenberg, John E.,
+"Lifetime prevalence of self-reported concussion among adolescents involved
+in competitive sports: A national U.S. study." Journal of Adolescent
+Health. In press 2018,. DOI: 10.1016/j.jadohealth.2018.08.023

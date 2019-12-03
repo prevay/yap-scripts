@@ -1,0 +1,18 @@
+Bibliography
+Monitoring the Future: A Continuing Study of American Youth (12th-Grade
+Survey), 2017
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37182. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Sutfin, Erin L.; McKelvey, Karma; Soule, Eric; Glasser, Allison; Kim,
+Hyoshin; Wiseman, Kimberly D.; Grana, Rachel, "Measuring waterpipe tobacco
+smoking in survey research." Tobacco Control. In press 2019,. DOI:
+10.1136/tobaccocontrol-2019-055000

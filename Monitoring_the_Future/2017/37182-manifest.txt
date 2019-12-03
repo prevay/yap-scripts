@@ -1,0 +1,234 @@
+File Manifest for ICPSR 37182
+
+Miech, Richard A., Lloyd D. Johnston, Jerald G. Bachman, Patrick M.
+O'Malley, and John E. Schulenberg. Monitoring the Future: A Continuing
+Study of American Youth (12th-Grade Survey), 2017. ICPSR37182-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2018-10-29. http://doi.org/10.3886/ICPSR37182.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-descriptioncitation.pdf       -       -         -       2018-10-30  -
+
+    37182-related_literature.txt        -       -         -       daily       -
+
+    37182-manifest.txt                  -       -         -       daily       -
+
+    37182-Codebook.pdf                  -       -         -       2018-10-29  50236969b6ac274ec9f91acdde66bf44
+
+    37182-User_guide.xls                -       -         -       2018-10-29  12ad0e01d95c8ad334b70067984e8fde
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0001-Data.dta                 -       13,522    184     2018-10-29  d8484dc873717e8b599e4ddea9128653
+
+    37182-0001-Data.rda                 -       13,522    184     2018-10-29  feb5801ae0753d3b50f376fbf35195a4
+
+    37182-0001-Data.sav                 -       13,522    184     2018-10-29  71c7ffe96ec81e3ba4efeeb4d4aeaa53
+
+    37182-0001-Data.stc                 -       13,522    184     2018-10-29  e12758b0447500f45d9442a8ec2a41b9
+
+    37182-0001-Data.tsv                 -       13,522    184     2018-10-29  dba8ba5ddb1cf1a8735bb78394999783
+
+    37182-0001-Data.txt                 385     13,522    184     2018-10-29  a512c8a887535ce598998d16268e174e
+
+    37182-0001-Setup.dct                -       -         -       2018-10-29  9e92dc75c3a5ad3ca7bdde68ecf122f1
+
+    37182-0001-Setup.do                 -       -         -       2018-10-29  3d6cbf4e8e1f2fa09fb2af5f621fb8fb
+
+    37182-0001-Setup.sas                -       -         -       2018-10-29  fbef9e2e01c32eb11aa42f75c3b616b2
+
+    37182-0001-Setup.sps                -       -         -       2018-10-29  2bc6cb1330cef72071416102a50ecc07
+
+    37182-0001-Supplemental_syntax.do   -       -         -       2018-10-29  eaa27a8fb853352a177aa297ffb20786
+
+    37182-0001-Supplemental_syntax.sas  -       -         -       2018-10-29  842b2cf108d43e22d2096fb0bb601784
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0002-Data.dta                 -       2,261     608     2018-10-29  d47ea735f233ee57ce208e59c241f511
+
+    37182-0002-Data.rda                 -       2,261     608     2018-10-29  b8f05d72d17648963c2a4737371aeae5
+
+    37182-0002-Data.sav                 -       2,261     608     2018-10-29  7abe7eb6b8acf84f974650fb46eee8b3
+
+    37182-0002-Data.stc                 -       2,261     608     2018-10-29  d08828661267e31a3635eda646f31ae1
+
+    37182-0002-Data.tsv                 -       2,261     608     2018-10-29  9143fd1f0b8505030f798dd69628d63a
+
+    37182-0002-Data.txt                 1232    2,261     608     2018-10-29  67368d210c2ce986515135733e219564
+
+    37182-0002-Setup.dct                -       -         -       2018-10-29  fef5168fbe16950429aa345e0471a380
+
+    37182-0002-Setup.do                 -       -         -       2018-10-29  043acacba551844e26f0d3e4ebc48497
+
+    37182-0002-Setup.sas                -       -         -       2018-10-29  2914928e0d6c16e9c7a77a551d050bc6
+
+    37182-0002-Setup.sps                -       -         -       2018-10-29  f255b159e1ad1c6c4ef852000d4eb47e
+
+    37182-0002-Supplemental_syntax.do   -       -         -       2018-10-29  91d354e5949dac8eb35ae5d5e3f3a2cf
+
+    37182-0002-Supplemental_syntax.sas  -       -         -       2018-10-29  2b0065ae7baf3ffe948dbc99f605cb05
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0003-Data.dta                 -       2,252     329     2018-10-29  5828f275630e4921ad8a76ed980d702b
+
+    37182-0003-Data.rda                 -       2,252     329     2018-10-29  e92d1591e2484642ecc30dfd2659794d
+
+    37182-0003-Data.sav                 -       2,252     329     2018-10-29  b63b37df9cae01d5c9a079f06dc6a1dc
+
+    37182-0003-Data.stc                 -       2,252     329     2018-10-29  b21f2ccf6bc2ec7a72979c33b37726b9
+
+    37182-0003-Data.tsv                 -       2,252     329     2018-10-29  189a8abe08033ccf9a7c4c4f4a3b9d9e
+
+    37182-0003-Data.txt                 674     2,252     329     2018-10-29  63ed9df7196dcbfb3f40c4ec2d12d361
+
+    37182-0003-Setup.dct                -       -         -       2018-10-29  f9aabe46daff49705ba1be7c4533358c
+
+    37182-0003-Setup.do                 -       -         -       2018-10-29  94aada53831a0d61eb378ecbaca15f29
+
+    37182-0003-Setup.sas                -       -         -       2018-10-29  51613f353e9a9096febda43dc11cc38f
+
+    37182-0003-Setup.sps                -       -         -       2018-10-29  cb289e0d6b201fe7b9cacd438fa7b970
+
+    37182-0003-Supplemental_syntax.do   -       -         -       2018-10-29  03b57298ac12e2e207ca80414f992bee
+
+    37182-0003-Supplemental_syntax.sas  -       -         -       2018-10-29  71eaf564271f3b5f47521c26ca2cbeeb
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0004-Data.dta                 -       2,245     382     2018-10-29  11c481d8effc66731d6a279edea2fa03
+
+    37182-0004-Data.rda                 -       2,245     382     2018-10-29  0b07b7a37a9ee0ed8a799dc6c2474854
+
+    37182-0004-Data.sav                 -       2,245     382     2018-10-29  2e85e7dca039e81004f65fea85558302
+
+    37182-0004-Data.stc                 -       2,245     382     2018-10-29  2b5595836bbbf03a4fb14bd6015cda11
+
+    37182-0004-Data.tsv                 -       2,245     382     2018-10-29  1aea2df31fe1f7b9d254bde01e1d83ae
+
+    37182-0004-Data.txt                 780     2,245     382     2018-10-29  105227a65874a3d35cac5c8dd16c2b81
+
+    37182-0004-Setup.dct                -       -         -       2018-10-29  0ead1a394c688d76c62f83f10e855c96
+
+    37182-0004-Setup.do                 -       -         -       2018-10-29  29c956cb40a8b83cb6196dbb691a0d33
+
+    37182-0004-Setup.sas                -       -         -       2018-10-29  29aaa23db2758649c2fc6d3cd7fd2c2c
+
+    37182-0004-Setup.sps                -       -         -       2018-10-29  fcc60c80290a5ca76e0bce2adea7ff71
+
+    37182-0004-Supplemental_syntax.do   -       -         -       2018-10-29  9503341032ae2abd7128ab20aa7b8863
+
+    37182-0004-Supplemental_syntax.sas  -       -         -       2018-10-29  27a3351411105829300a6e9df10af75e
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0005-Data.dta                 -       2,236     256     2018-10-29  fa6102fc20a8c9aa7840072d466ce918
+
+    37182-0005-Data.rda                 -       2,236     256     2018-10-29  0e36b2cfa1d2588168ebabb3ec93a4fd
+
+    37182-0005-Data.sav                 -       2,236     256     2018-10-29  f024184f4d8a435a1c3415b09b7a5768
+
+    37182-0005-Data.stc                 -       2,236     256     2018-10-29  25e2fc50bf35367667184442c06d1f68
+
+    37182-0005-Data.tsv                 -       2,236     256     2018-10-29  0e84c4873f424077336092b67ccd7901
+
+    37182-0005-Data.txt                 528     2,236     256     2018-10-29  b784ae51701c7876d6350c2d546cd83e
+
+    37182-0005-Setup.dct                -       -         -       2018-10-29  b64555d4986ed6e4244f5d92e4afb5b2
+
+    37182-0005-Setup.do                 -       -         -       2018-10-29  f66bbed5ba138fe5a44ada5b48057d20
+
+    37182-0005-Setup.sas                -       -         -       2018-10-29  5602206e4e1b2a0f3e89a34d4581fb05
+
+    37182-0005-Setup.sps                -       -         -       2018-10-29  5975689472f1c79f70b4d1b98f7faa77
+
+    37182-0005-Supplemental_syntax.do   -       -         -       2018-10-29  82fa30abfda2ef7ba6babddfd180e11b
+
+    37182-0005-Supplemental_syntax.sas  -       -         -       2018-10-29  5669dd7678eed5db140f3f4c1698ae81
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0006-Data.dta                 -       2,256     323     2018-10-29  8bf6e4de85b3da0a5a8a85050ff9fd24
+
+    37182-0006-Data.rda                 -       2,256     323     2018-10-29  b6727b67aca16e5b7bb91f01159be9a9
+
+    37182-0006-Data.sav                 -       2,256     323     2018-10-29  25bdd3786af0659fb24958c3be2d9445
+
+    37182-0006-Data.stc                 -       2,256     323     2018-10-29  0e43bbd7832a49429021caf343012619
+
+    37182-0006-Data.tsv                 -       2,256     323     2018-10-29  25df27c1120aaaf3134054931e7f6eaf
+
+    37182-0006-Data.txt                 662     2,256     323     2018-10-29  da11e337a67532a438815ecaf9a48a0a
+
+    37182-0006-Setup.dct                -       -         -       2018-10-29  b345b0764de4a437417c8ef064278d43
+
+    37182-0006-Setup.do                 -       -         -       2018-10-29  636a6a052257b722cdcd5bc6d88a3911
+
+    37182-0006-Setup.sas                -       -         -       2018-10-29  51c247c2adc7f905573aad0e8839c81c
+
+    37182-0006-Setup.sps                -       -         -       2018-10-29  c01ee0aee2a5913ea7d3b622e118fdda
+
+    37182-0006-Supplemental_syntax.do   -       -         -       2018-10-29  11dcd859ff55058ad712299a9659c169
+
+    37182-0006-Supplemental_syntax.sas  -       -         -       2018-10-29  54bc502d953a888009e24a40306bfd62
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37182-0007-Data.dta                 -       2,272     323     2018-10-29  807dd015e59228a44588f1fac09fc105
+
+    37182-0007-Data.rda                 -       2,272     323     2018-10-29  793c6cceca322f19f12ed5d0d12a1d49
+
+    37182-0007-Data.sav                 -       2,272     323     2018-10-29  ea8b08f0bc93b0a465c26eae5aaa6f90
+
+    37182-0007-Data.stc                 -       2,272     323     2018-10-29  3f982f21455a443aafc7c5bddabd4069
+
+    37182-0007-Data.tsv                 -       2,272     323     2018-10-29  f36db418c155fe689b2002a299cfd793
+
+    37182-0007-Data.txt                 662     2,272     323     2018-10-29  58eb2ef0341506cc5870203dfefac120
+
+    37182-0007-Setup.dct                -       -         -       2018-10-29  f957618c091ede36d0a0578fd7ad3b39
+
+    37182-0007-Setup.do                 -       -         -       2018-10-29  7de23f51a67fcde0d5724aaab8fa8700
+
+    37182-0007-Setup.sas                -       -         -       2018-10-29  e5b9e626b0a54a47a388bef4ea6fa0e8
+
+    37182-0007-Setup.sps                -       -         -       2018-10-29  56672b72475aa5ce093bb65ba2286e2a
+
+    37182-0007-Supplemental_syntax.do   -       -         -       2018-10-29  0432823d3f85a27284bea83fa64dc3db
+
+    37182-0007-Supplemental_syntax.sas  -       -         -       2018-10-29  fb4a91804ea705c46aaa94e887f1fb29
+
