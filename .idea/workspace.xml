@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91154429-3d8f-43cf-a24f-13bbd18a783c" name="Default Changelist" comment="">
+    <list default="true" id="91154429-3d8f-43cf-a24f-13bbd18a783c" name="Default Changelist" comment="adding data back to 2009">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trends.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="475">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -52,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/trends.py" />
+        <option value="$PROJECT_DIR$/MtF_Trends.ipynb" />
       </list>
     </option>
   </component>
@@ -138,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575311045138</updated>
-      <workItem from="1575311046453" duration="10253000" />
+      <workItem from="1575311046453" duration="11751000" />
     </task>
     <task id="LOCAL-00001" summary="fixing path">
       <created>1575473294458</created>
@@ -154,14 +155,29 @@
       <option name="project" value="LOCAL" />
       <updated>1575474755149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixing typos in description">
+      <created>1575475830377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575475830377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding data back to 2009">
+      <created>1575476879485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575476879485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10253000" />
+    <option name="totallyTimeSpent" value="11751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1096" height="1896" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -192,7 +208,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixing path" />
     <MESSAGE value="adding description to notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding description to notebook" />
+    <MESSAGE value="fixing typos in description" />
+    <MESSAGE value="adding data back to 2009" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding data back to 2009" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,10 +245,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MtF_Trends.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trends.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="475">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
