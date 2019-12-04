@@ -1,0 +1,240 @@
+File Manifest for ICPSR 34409
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2011. ICPSR34409-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2012-11-20.
+http://doi.org/10.3886/ICPSR34409.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-descriptioncitation.pdf       -       -         -       2016-08-15  -
+
+    34409-related_literature.txt        -       -         -       daily       -
+
+    34409-manifest.txt                  -       -         -       daily       -
+
+    34409-User_guide.pdf                -       -         -       2012-10-31  37df1ca4e43ef5504b747b64f6ce829f
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0001-Codebook.pdf             -       -         -       2012-11-20  658ca87bc957089053a652dad05a738c
+
+    34409-0001-Data.dta                 -       14,855    185     2012-11-20  66514ea14779a91447a8b78f754f1072
+
+    34409-0001-Data.sav                 -       14,855    185     2012-11-20  eb1ecb5792198b86781a84e4a56660b4
+
+    34409-0001-Data.stc                 -       14,855    185     2012-11-20  312e8fc92913c125506b973bbe08a694
+
+    34409-0001-Data.tsv                 -       14,855    185     2012-11-20  83cfafb6bb983468ba870351198e4bfe
+
+    34409-0001-Data.txt                 384     14,855    185     2012-11-20  84c2674b14b3297015481cf47e245612
+
+    34409-0001-Setup.dct                -       -         -       2012-11-20  2a8ac890192d67567e1a740da491bfef
+
+    34409-0001-Setup.do                 -       -         -       2012-11-20  dacc64bd093bfe453388a14dcf561ed7
+
+    34409-0001-Setup.sas                -       -         -       2012-11-20  f9b944a48d55add2043f15522de4c1bf
+
+    34409-0001-Setup.sps                -       -         -       2012-11-20  4a4d1521ff971b85dd319e05e69253ef
+
+    34409-0001-Supplemental_syntax.do   -       -         -       2012-11-20  7dfa09b203c65d358a2192deda602dde
+
+    34409-0001-Supplemental_syntax.sas  -       -         -       2012-11-20  31767dc580069fea280e40b55b60976e
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0002-Codebook.pdf             -       -         -       2012-11-20  ecfc782b3e370badbd78366d9ec17bd7
+
+    34409-0002-Data.dta                 -       2,478     635     2012-11-20  11f03e83895ce5c0f6e31a25fe27a5a5
+
+    34409-0002-Data.sav                 -       2,478     635     2012-11-20  18fd4301b4515fae23825a6305c42fa6
+
+    34409-0002-Data.stc                 -       2,478     635     2012-11-20  9bfb58f0dea4fdbf879c088a2ebb70d8
+
+    34409-0002-Data.tsv                 -       2,478     635     2012-11-20  7bfb41b60bb1f90236d7e210ac191415
+
+    34409-0002-Data.txt                 1281    2,478     635     2012-11-20  f67308e6462b8889a593e7e0fb8601ac
+
+    34409-0002-Setup.dct                -       -         -       2012-11-20  1cbe63f9e55c8aa8af0e25edbc1f4f9d
+
+    34409-0002-Setup.do                 -       -         -       2012-11-20  fa43c00a686ed6c9569bdb43af87624c
+
+    34409-0002-Setup.sas                -       -         -       2012-11-20  f0512fdc06506cb310b067a01e1d0a2f
+
+    34409-0002-Setup.sps                -       -         -       2012-11-20  49f3392be5a935c5d64a435fbb44e447
+
+    34409-0002-Supplemental_syntax.do   -       -         -       2012-11-20  857ee1b53774001bc38c3ce923f15432
+
+    34409-0002-Supplemental_syntax.sas  -       -         -       2012-11-20  dd1de7e08033fbef3e1894a8dfe2d36f
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0003-Codebook.pdf             -       -         -       2012-11-20  6819752cb55f0b7842935dd43126c6d2
+
+    34409-0003-Data.dta                 -       2,465     329     2012-11-20  863c7188bad424e634dd5f4ce01d9338
+
+    34409-0003-Data.sav                 -       2,465     329     2012-11-20  7c6e2b50487b0d8abd39d6c4feba55c5
+
+    34409-0003-Data.stc                 -       2,465     329     2012-11-20  7266e32daca72ce94e682ec0ca8b2ffe
+
+    34409-0003-Data.tsv                 -       2,465     329     2012-11-20  22d48c053e5855cb4615aff59f134f84
+
+    34409-0003-Data.txt                 671     2,465     329     2012-11-20  a2c843d3bd7a65a9835ade058405fe85
+
+    34409-0003-Setup.dct                -       -         -       2012-11-20  39ff5ae172f1907dccca36beaaa8a291
+
+    34409-0003-Setup.do                 -       -         -       2012-11-20  862f459acd3fb00560fc4de27a744f46
+
+    34409-0003-Setup.sas                -       -         -       2012-11-20  23af707c9dd0e34bb2e0e46b2b4079a2
+
+    34409-0003-Setup.sps                -       -         -       2012-11-20  05a50b6c30c47c2ead13e0e258670483
+
+    34409-0003-Supplemental_syntax.do   -       -         -       2012-11-20  8f218c65d2c879f9af0fcb5e1228832c
+
+    34409-0003-Supplemental_syntax.sas  -       -         -       2012-11-20  f235db5130f695c7348bd9113d2692ae
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0004-Codebook.pdf             -       -         -       2012-11-20  0dc52ca32ae8ae4512b08c427b26ede2
+
+    34409-0004-Data.dta                 -       2,470     360     2012-11-20  6190f76ecedd6b3f20c238c3166622ac
+
+    34409-0004-Data.sav                 -       2,470     360     2012-11-20  f7d684fffe03e4f6f981a0925cceee96
+
+    34409-0004-Data.stc                 -       2,470     360     2012-11-20  3e809e99d7257e54d2afcfaa559f63dd
+
+    34409-0004-Data.tsv                 -       2,470     360     2012-11-20  4870da8a56bcca49efed411a1f5e8a96
+
+    34409-0004-Data.txt                 734     2,470     360     2012-11-20  1d0fdafd9894b23ffa4299e497b236ba
+
+    34409-0004-Setup.dct                -       -         -       2012-11-20  c0d36b998483f712e1cd951acf6d2897
+
+    34409-0004-Setup.do                 -       -         -       2012-11-20  00a0509fe7e7f57f416ddd6224603eb0
+
+    34409-0004-Setup.sas                -       -         -       2012-11-20  98019129c6c60047b2e4139931f86be0
+
+    34409-0004-Setup.sps                -       -         -       2012-11-20  f5aead2371340d9871bace2bf82634d8
+
+    34409-0004-Supplemental_syntax.do   -       -         -       2012-11-20  e573f8e6c630410e51d2556cd1b703aa
+
+    34409-0004-Supplemental_syntax.sas  -       -         -       2012-11-20  4d24eda4095384707abc1e53fdb1acd6
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0005-Codebook.pdf             -       -         -       2012-11-20  37c7936efcfa299c9a54f6c7c2fd4084
+
+    34409-0005-Data.dta                 -       2,463     267     2012-11-20  d5d44859b348090aeb19a22bced8d7ae
+
+    34409-0005-Data.sav                 -       2,463     267     2012-11-20  a2066a51bca411f2e35e2a3e8ce63431
+
+    34409-0005-Data.stc                 -       2,463     267     2012-11-20  88fb81914fe6444cf32273f8956ae2b2
+
+    34409-0005-Data.tsv                 -       2,463     267     2012-11-20  d32c9e5acea3207194e91505be048ec0
+
+    34409-0005-Data.txt                 550     2,463     267     2012-11-20  e2af94ba57ad2195b756e56b39442010
+
+    34409-0005-Setup.dct                -       -         -       2012-11-20  e16c2b857383a418284275d9059e91de
+
+    34409-0005-Setup.do                 -       -         -       2012-11-20  bc62739efaa24fa165d55f3b215f9500
+
+    34409-0005-Setup.sas                -       -         -       2012-11-20  6f81ef21f72063f66ba2ea5fbe407359
+
+    34409-0005-Setup.sps                -       -         -       2012-11-20  240f309d3dadbcd59d5063209caac0b9
+
+    34409-0005-Supplemental_syntax.do   -       -         -       2012-11-20  e63c2cc4f0094400b5f2d53440cf3276
+
+    34409-0005-Supplemental_syntax.sas  -       -         -       2012-11-20  9b5bc511023fc1552d6807b9664e156a
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0006-Codebook.pdf             -       -         -       2012-11-20  5863ab422fe3a5be42a571fe2597cd1f
+
+    34409-0006-Data.dta                 -       2,493     309     2012-11-20  b41af2edccd2eedc65c3a5c01fb53af3
+
+    34409-0006-Data.sav                 -       2,493     309     2012-11-20  14c7abe250e187bfe9490b3ffffd297c
+
+    34409-0006-Data.stc                 -       2,493     309     2012-11-20  f5844ad7201d1846110a8ed15ef4f62b
+
+    34409-0006-Data.tsv                 -       2,493     309     2012-11-20  5931a197b89db61e9739359d0658e233
+
+    34409-0006-Data.txt                 631     2,493     309     2012-11-20  0a75eef34f7389bec514cc54e5cbd757
+
+    34409-0006-Setup.dct                -       -         -       2012-11-20  77239d0658b1c66982dcc64aa949730d
+
+    34409-0006-Setup.do                 -       -         -       2012-11-20  9c61045f58609f60aeeec1ac68cb3d24
+
+    34409-0006-Setup.sas                -       -         -       2012-11-20  6923f1ff8e1b60cd0f27786ff7354bba
+
+    34409-0006-Setup.sps                -       -         -       2012-11-20  167f37b6e112bca6e687484ee79079a5
+
+    34409-0006-Supplemental_syntax.do   -       -         -       2012-11-20  2aee79aecda47e57657fa1023c290884
+
+    34409-0006-Supplemental_syntax.sas  -       -         -       2012-11-20  12326e67ef905d3d9611b46e1f74a176
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34409-0007-Codebook.pdf             -       -         -       2012-11-20  b41296730e9200888a7b754d0bd28914
+
+    34409-0007-Data.dta                 -       2,486     337     2012-11-20  a6dd40e76fc8b50275a16b0870289cc7
+
+    34409-0007-Data.sav                 -       2,486     337     2012-11-20  f3b83f5502ba6174ee3352223c27d621
+
+    34409-0007-Data.stc                 -       2,486     337     2012-11-20  515c924f44f3114f4105e2f98d269b54
+
+    34409-0007-Data.tsv                 -       2,486     337     2012-11-20  30b048e75c16acf8c995750fc20837f6
+
+    34409-0007-Data.txt                 688     2,486     337     2012-11-20  ca215e233794e9eefb1ada94f0aa7548
+
+    34409-0007-Setup.dct                -       -         -       2012-11-20  3da562e212c8ac149b99f549f9146b43
+
+    34409-0007-Setup.do                 -       -         -       2012-11-20  550df407f6b2d6c37fef056beee33a42
+
+    34409-0007-Setup.sas                -       -         -       2012-11-20  848bac8926e6a82b290cc82a67242cd2
+
+    34409-0007-Setup.sps                -       -         -       2012-11-20  ba7a229cd46c03546ecad086c5d0346b
+
+    34409-0007-Supplemental_syntax.do   -       -         -       2012-11-20  26ae57a519aa2e9221af0dccd336bf45
+
+    34409-0007-Supplemental_syntax.sas  -       -         -       2012-11-20  5878d5f8da84a58f8090bd58c5c9cb61
+
+
+Version History
+
+2012-11-20 Additional variables that were left off from the data files
+originally have been added to Form 3 (Part 4), Form 5 (Part 6), and Form 6
+(Part 7).

@@ -1,0 +1,232 @@
+File Manifest for ICPSR 28401
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2009. ICPSR28401-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2010-10-27.
+http://doi.org/10.3886/ICPSR28401.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-descriptioncitation.pdf       -       -         -       2016-08-15  -
+
+    28401-related_literature.txt        -       -         -       daily       -
+
+    28401-manifest.txt                  -       -         -       daily       -
+
+    28401-User_guide.pdf                -       -         -       2010-10-27  64e1c78b7edf372d62f4481b21aac12c
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0001-Codebook.pdf             -       -         -       2010-10-27  6d9d8735ca9953793242f482ed064454
+
+    28401-0001-Data.dta                 -       14,268    188     2010-10-27  6d160f5261e312a0729d52f4ad1e5202
+
+    28401-0001-Data.sav                 -       14,268    188     2010-10-27  1586bdb78a709c5c585b344553694cf6
+
+    28401-0001-Data.stc                 -       14,268    188     2010-10-27  6049627a84c572c8ba0eb2049befb5f1
+
+    28401-0001-Data.tsv                 -       14,268    188     2010-10-27  213c21c8a70dad80eafb86fa1399088a
+
+    28401-0001-Data.txt                 390     14,268    188     2010-10-27  db5ac9b80f2033641287ec54ff2c5681
+
+    28401-0001-Setup.dct                -       -         -       2010-10-27  db2520615d5b8c49e57a838e468e92ff
+
+    28401-0001-Setup.do                 -       -         -       2010-10-27  a889aff294b55c12bd52821905d47017
+
+    28401-0001-Setup.sas                -       -         -       2010-10-27  29ff85592d635e3870033cc843ae6d3e
+
+    28401-0001-Setup.sps                -       -         -       2010-10-27  185a21129e11c678208ee174437325c7
+
+    28401-0001-Supplemental_syntax.do   -       -         -       2010-10-27  89b8b36b3092ac9fa58fe7bd593a7b55
+
+    28401-0001-Supplemental_syntax.sas  -       -         -       2010-10-27  5d3f713fdfd2a2636b86dbf10697c4eb
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0002-Codebook.pdf             -       -         -       2010-10-27  058f50dbf6db2c590f7d70f7af6b478d
+
+    28401-0002-Data.dta                 -       2,392     638     2010-10-27  a3f591c149d7a5a95c20cc30f98d1c9b
+
+    28401-0002-Data.sav                 -       2,392     638     2010-10-27  04c7573207e07bc8fadd313b65407ceb
+
+    28401-0002-Data.stc                 -       2,392     638     2010-10-27  777e975299b1b9b49d202e671e20739e
+
+    28401-0002-Data.tsv                 -       2,392     638     2010-10-27  7dfa018177c1f96fd5e508357927a65e
+
+    28401-0002-Data.txt                 1287    2,392     638     2010-10-27  556e0845838679249e808d58d7d5492f
+
+    28401-0002-Setup.dct                -       -         -       2010-10-27  5d1dd785e45722587b71c7a2305ecfe5
+
+    28401-0002-Setup.do                 -       -         -       2010-10-27  da545ff16199e12b279790c74a5b9727
+
+    28401-0002-Setup.sas                -       -         -       2010-10-27  5f090318640cf5b562b5f856690b26a8
+
+    28401-0002-Setup.sps                -       -         -       2010-10-27  5eb1c01f84bbce200f26cc08697ebba8
+
+    28401-0002-Supplemental_syntax.do   -       -         -       2010-10-27  6c2e037f1b9d71ecf9f4eda68f6ca377
+
+    28401-0002-Supplemental_syntax.sas  -       -         -       2010-10-27  b4d0c645bd4710937e17e463ffe5c559
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0003-Codebook.pdf             -       -         -       2010-10-27  f21ab2089543aa75a43a38b980dfdabe
+
+    28401-0003-Data.dta                 -       2,381     332     2010-10-27  628361f4c5fd55f96c59973e2087ee22
+
+    28401-0003-Data.sav                 -       2,381     332     2010-10-27  e2ff5fc1f4a11d2c550585161dcee9a3
+
+    28401-0003-Data.stc                 -       2,381     332     2010-10-27  474221e08d97517c53e020cc4245aa3c
+
+    28401-0003-Data.tsv                 -       2,381     332     2010-10-27  6a6329f2e437cff4a06b8a97abfd9c01
+
+    28401-0003-Data.txt                 677     2,381     332     2010-10-27  69b3f4ca21b5e1b9b72950ef2fb9ce5d
+
+    28401-0003-Setup.dct                -       -         -       2010-10-27  d12b4a3393f3362128504c4094df808f
+
+    28401-0003-Setup.do                 -       -         -       2010-10-27  521133d39ef73e2e545a2ee9832f3a49
+
+    28401-0003-Setup.sas                -       -         -       2010-10-27  41cb015ed739af5f878287efc7cc3b07
+
+    28401-0003-Setup.sps                -       -         -       2010-10-27  e6e27c907608c876bff55a4ac454eab8
+
+    28401-0003-Supplemental_syntax.do   -       -         -       2010-10-27  8584a85771fb7f92dbeeda35f7457da1
+
+    28401-0003-Supplemental_syntax.sas  -       -         -       2010-10-27  e2aad573d94ca717a580788bb67b4378
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0004-Codebook.pdf             -       -         -       2010-10-27  3f70bdb82c3862fbf89b334dcebd16e6
+
+    28401-0004-Data.dta                 -       2,357     358     2010-10-27  5d472e34b87f73133f865f4af7147d49
+
+    28401-0004-Data.sav                 -       2,357     358     2010-10-27  34e498b6112aa383df8bc49331656c41
+
+    28401-0004-Data.stc                 -       2,357     358     2010-10-27  581ff09e23b390fbdcb774200340c158
+
+    28401-0004-Data.tsv                 -       2,357     358     2010-10-27  64043a4558be346f2840dbe06f156108
+
+    28401-0004-Data.txt                 730     2,357     358     2010-10-27  a37f6b8819c15a0a98dc8e0948bc3f7f
+
+    28401-0004-Setup.dct                -       -         -       2010-10-27  1212a1fb10a31db77b564ac84b692f1d
+
+    28401-0004-Setup.do                 -       -         -       2010-10-27  ed3e78eb2b6483005c207e5daf60fed7
+
+    28401-0004-Setup.sas                -       -         -       2010-10-27  7df352f31c3415cf7d79decee30b32cc
+
+    28401-0004-Setup.sps                -       -         -       2010-10-27  e98489cef4e6c710b516b8a9c06a4657
+
+    28401-0004-Supplemental_syntax.do   -       -         -       2010-10-27  5281698f798f98e3204014fa8b7088fc
+
+    28401-0004-Supplemental_syntax.sas  -       -         -       2010-10-27  0f968a06595a06d75f7c0a50e96cbd24
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0005-Codebook.pdf             -       -         -       2010-10-27  2a258a18e565db90eb34cb9f5b2d5d26
+
+    28401-0005-Data.dta                 -       2,385     270     2010-10-27  b3fa6d414a8153fa35bb222236089cda
+
+    28401-0005-Data.sav                 -       2,385     270     2010-10-27  ebf4514cea96637829fe226720c04e38
+
+    28401-0005-Data.stc                 -       2,385     270     2010-10-27  f84fedb2522d6066338630fe02063f14
+
+    28401-0005-Data.tsv                 -       2,385     270     2010-10-27  c08935344861202722ae5e08b7d4a893
+
+    28401-0005-Data.txt                 556     2,385     270     2010-10-27  e4b62461e36d815af61767aa4d39ba69
+
+    28401-0005-Setup.dct                -       -         -       2010-10-27  402a987b8b61c1d5f93abfd4c7734cb7
+
+    28401-0005-Setup.do                 -       -         -       2010-10-27  1aa0942644c9dd6ae586083c5cf561e9
+
+    28401-0005-Setup.sas                -       -         -       2010-10-27  161a1bd5217ee5cbe1f46341e72e43f5
+
+    28401-0005-Setup.sps                -       -         -       2010-10-27  e0ed804f05f75bd4ede30af370e69b0f
+
+    28401-0005-Supplemental_syntax.do   -       -         -       2010-10-27  0473d5a0f0787cdb12f0e0859918b884
+
+    28401-0005-Supplemental_syntax.sas  -       -         -       2010-10-27  9b526495687f869305f7e08ec2689f87
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0006-Codebook.pdf             -       -         -       2010-10-27  f0d4cac5b0bf39922bdc0ea2ca23de0c
+
+    28401-0006-Data.dta                 -       2,371     327     2010-10-27  a2f0d79009dc876681e49e0a2775b240
+
+    28401-0006-Data.sav                 -       2,371     327     2010-10-27  d9f51ef5ba3c55f0aaa73dfb25a6c8bc
+
+    28401-0006-Data.stc                 -       2,371     327     2010-10-27  4d428dd3271ecdd1a28b20f7526baab0
+
+    28401-0006-Data.tsv                 -       2,371     327     2010-10-27  4080f0633b9b714ef5d11725e62637ed
+
+    28401-0006-Data.txt                 667     2,371     327     2010-10-27  3714fbe773a4cdb7b43d3df0cf598e1c
+
+    28401-0006-Setup.dct                -       -         -       2010-10-27  0f9ad8faf03b4ec15a31e8effe9388df
+
+    28401-0006-Setup.do                 -       -         -       2010-10-27  291aa9ca5ee31555493a2a973990a662
+
+    28401-0006-Setup.sas                -       -         -       2010-10-27  25e4f1b0615e03384e7485f400bfbef8
+
+    28401-0006-Setup.sps                -       -         -       2010-10-27  c283da46db86183301a30ecce05d5311
+
+    28401-0006-Supplemental_syntax.do   -       -         -       2010-10-27  8f6977c32ac43091a7b8b0784ad1986f
+
+    28401-0006-Supplemental_syntax.sas  -       -         -       2010-10-27  24eed781a008e90f6dda7fbf3f362080
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28401-0007-Codebook.pdf             -       -         -       2010-10-27  781accb86a0870fc9a7641bfacc3510f
+
+    28401-0007-Data.dta                 -       2,382     336     2010-10-27  1890baeb0a274f1c38bc4f1d13a74b98
+
+    28401-0007-Data.sav                 -       2,382     336     2010-10-27  46a58e37819e6df43f215e7985bab2ca
+
+    28401-0007-Data.stc                 -       2,382     336     2010-10-27  7f80ded415442794d0d9632fe6fdeb10
+
+    28401-0007-Data.tsv                 -       2,382     336     2010-10-27  d7f2cedebf763991087bd5154b7e33bd
+
+    28401-0007-Data.txt                 686     2,382     336     2010-10-27  8fe0bb5393b3e1434de41c77e89403cb
+
+    28401-0007-Setup.dct                -       -         -       2010-10-27  8bf95530bdaf7632c173579cdb5feb83
+
+    28401-0007-Setup.do                 -       -         -       2010-10-27  f4728a9e3c9afb64235bb9144277bcd7
+
+    28401-0007-Setup.sas                -       -         -       2010-10-27  bbf0c23f2c47eba595c14978b6769e2f
+
+    28401-0007-Setup.sps                -       -         -       2010-10-27  6e3357ba012b82a2013a5b27bb7490e8
+
+    28401-0007-Supplemental_syntax.do   -       -         -       2010-10-27  66f1e67f8c0c493974685cee810a5893
+
+    28401-0007-Supplemental_syntax.sas  -       -         -       2010-10-27  42c34c6898a81364bb8adc773c57e6eb
+

@@ -1,0 +1,232 @@
+File Manifest for ICPSR 30985
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2010. ICPSR30985-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2011-10-26.
+http://doi.org/10.3886/ICPSR30985.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-descriptioncitation.pdf       -       -         -       2016-08-15  -
+
+    30985-related_literature.txt        -       -         -       daily       -
+
+    30985-manifest.txt                  -       -         -       daily       -
+
+    30985-User_guide.pdf                -       -         -       2011-10-26  cb794a6a19d33aa0868f72a9072e5980
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0001-Codebook.pdf             -       -         -       2011-10-26  73d0c872afa93f853ea6b128dbac558b
+
+    30985-0001-Data.dta                 -       15,127    189     2011-10-26  0347a74b517b4cf8cf1963947a954c85
+
+    30985-0001-Data.sav                 -       15,127    189     2011-10-26  c155e3bf304993bec404e7cdb77e26ca
+
+    30985-0001-Data.stc                 -       15,127    189     2011-10-26  be2dfd7756038cb94ff09a81de0a4dbe
+
+    30985-0001-Data.tsv                 -       15,127    189     2011-10-26  a862a497997d2514ba25679c3d2f0b19
+
+    30985-0001-Data.txt                 392     15,127    189     2011-10-26  1724a81b66d82d69c529e9b8d2499ffd
+
+    30985-0001-Setup.dct                -       -         -       2011-10-26  04adba0e1366dda90f78283cab1f2498
+
+    30985-0001-Setup.do                 -       -         -       2011-10-26  0eecc2322ca2f1c17966ccf1a5453ec7
+
+    30985-0001-Setup.sas                -       -         -       2011-10-26  2109432d5aa7f24d7830adda8315447b
+
+    30985-0001-Setup.sps                -       -         -       2011-10-26  ad8442b0b3797213957c1ee8c6187daa
+
+    30985-0001-Supplemental_syntax.do   -       -         -       2011-10-26  d18eec737da8286cd26959fd0adc84ef
+
+    30985-0001-Supplemental_syntax.sas  -       -         -       2011-10-26  7fbe0d637bff30bf22a2b27b86b67b0e
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0002-Codebook.pdf             -       -         -       2011-10-26  7b470a81e0a1515db5170e6417e14897
+
+    30985-0002-Data.dta                 -       2,526     637     2011-10-26  9173a3ad4bbd7f9fdeada4e1ae5081d3
+
+    30985-0002-Data.sav                 -       2,526     637     2011-10-26  dc5db1b5a16fcc4d43f4bff0665901c4
+
+    30985-0002-Data.stc                 -       2,526     637     2011-10-26  ad3a7d673cd7945ec003375802bf4b1c
+
+    30985-0002-Data.tsv                 -       2,526     637     2011-10-26  802860f8fb49ea3205f536a8281dcfbf
+
+    30985-0002-Data.txt                 1285    2,526     637     2011-10-26  ff3774e4df0701efa2a90cada919fa22
+
+    30985-0002-Setup.dct                -       -         -       2011-10-26  bfaca7a3cdfd3344167e81274f88185b
+
+    30985-0002-Setup.do                 -       -         -       2011-10-26  41f32d37e38196ea4714f16daa211294
+
+    30985-0002-Setup.sas                -       -         -       2011-10-26  e8ed31a3c1d6c5c50213dfb6acc860a8
+
+    30985-0002-Setup.sps                -       -         -       2011-10-26  1829095cd313e61d81052034555823c2
+
+    30985-0002-Supplemental_syntax.do   -       -         -       2011-10-26  feccb28885aa095b786dc205f1e55fb3
+
+    30985-0002-Supplemental_syntax.sas  -       -         -       2011-10-26  f1400bfc7fa7ef339605fd197b50db71
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0003-Codebook.pdf             -       -         -       2011-10-26  3c2772947df6b99a07fc29d3655430a5
+
+    30985-0003-Data.dta                 -       2,536     329     2011-10-26  485466a0daac335f04e35f5897de1d00
+
+    30985-0003-Data.sav                 -       2,536     329     2011-10-26  ce002e41fa36894de7c3ab71d37297f0
+
+    30985-0003-Data.stc                 -       2,536     329     2011-10-26  700cd2cd7d8e898dc58146708ae0b47d
+
+    30985-0003-Data.tsv                 -       2,536     329     2011-10-26  350a00efa6c958787842f785fa487abd
+
+    30985-0003-Data.txt                 671     2,536     329     2011-10-26  097acd1db00cfeeb4ebaa665e9f46a18
+
+    30985-0003-Setup.dct                -       -         -       2011-10-26  2874ccdb3b4094224a7a440762a6bdc7
+
+    30985-0003-Setup.do                 -       -         -       2011-10-26  4cd3484412be9ece6c7bec573efc70a1
+
+    30985-0003-Setup.sas                -       -         -       2011-10-26  374cb9478d61a5d6978c49336c624bce
+
+    30985-0003-Setup.sps                -       -         -       2011-10-26  3c742cec55004ca4348b25a4ddc8870e
+
+    30985-0003-Supplemental_syntax.do   -       -         -       2011-10-26  843b8feb4ceb9f0ce47799841b903487
+
+    30985-0003-Supplemental_syntax.sas  -       -         -       2011-10-26  14b4fda858a73ef150f75563be3ff7ee
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0004-Codebook.pdf             -       -         -       2011-10-26  3e2f1bf3996244d58293583e75d9f25e
+
+    30985-0004-Data.dta                 -       2,523     359     2011-10-26  1861f25127cf027a1a8ed22ee1441094
+
+    30985-0004-Data.sav                 -       2,523     359     2011-10-26  dcb48b5cf66d258dcfa73fe162425026
+
+    30985-0004-Data.stc                 -       2,523     359     2011-10-26  9c36c1d9a0ba207044bf3595aeccfcb0
+
+    30985-0004-Data.tsv                 -       2,523     359     2011-10-26  0d46d9a8a75381e7d0bf345fc527f2b7
+
+    30985-0004-Data.txt                 732     2,523     359     2011-10-26  1acaf9d1cfcccecea03c3f6b66640b32
+
+    30985-0004-Setup.dct                -       -         -       2011-10-26  ac3bd1d3e9b2d11c2954a1cd617b3636
+
+    30985-0004-Setup.do                 -       -         -       2011-10-26  976d438c4aa72835bd9bcb123ffb4db4
+
+    30985-0004-Setup.sas                -       -         -       2011-10-26  64a1e45aac435095e5eb3203c2826cd7
+
+    30985-0004-Setup.sps                -       -         -       2011-10-26  e7962863d1820bf2f4870485290cec80
+
+    30985-0004-Supplemental_syntax.do   -       -         -       2011-10-26  68bc7baef722b15af2bf05f3e2c60cd4
+
+    30985-0004-Supplemental_syntax.sas  -       -         -       2011-10-26  d7f1302809ece477714d0fbfac14b997
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0005-Codebook.pdf             -       -         -       2011-10-26  7e0b3e3d055e9082ddda926f3772bd5c
+
+    30985-0005-Data.dta                 -       2,496     270     2011-10-26  5533f62d159f92c009a7443824685564
+
+    30985-0005-Data.sav                 -       2,496     270     2011-10-26  1f07b348cc013bc9dbe9fe6ec79e7c73
+
+    30985-0005-Data.stc                 -       2,496     270     2011-10-26  817d002a1a586fe025fb27e682ee48bd
+
+    30985-0005-Data.tsv                 -       2,496     270     2011-10-26  69b766379c0cfc4333edc28a662db878
+
+    30985-0005-Data.txt                 556     2,496     270     2011-10-26  ac6a38cebe303953ac8c407e4f8d31e4
+
+    30985-0005-Setup.dct                -       -         -       2011-10-26  4856ace55bd9eab0f92b1fdd97503007
+
+    30985-0005-Setup.do                 -       -         -       2011-10-26  996092af033f888a3ae48d019aeeb9be
+
+    30985-0005-Setup.sas                -       -         -       2011-10-26  f7bded088df1a0153c6ff75708d607ae
+
+    30985-0005-Setup.sps                -       -         -       2011-10-26  c241009a04cdf693105287ecba7dede0
+
+    30985-0005-Supplemental_syntax.do   -       -         -       2011-10-26  ce05c19d873f73742f765c1adb9ac922
+
+    30985-0005-Supplemental_syntax.sas  -       -         -       2011-10-26  6692cae4b88b5b2e211c1c455e200333
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0006-Codebook.pdf             -       -         -       2011-10-26  b3b66bbe38720d42edde95f4acb8f057
+
+    30985-0006-Data.dta                 -       2,519     320     2011-10-26  7c0c8210a0416701df2ff5c253c3bcbc
+
+    30985-0006-Data.sav                 -       2,519     320     2011-10-26  6287286499095932f32debdfa5e8d5c6
+
+    30985-0006-Data.stc                 -       2,519     320     2011-10-26  02d199d5aaeb8051a6aa92ca7dea01b0
+
+    30985-0006-Data.tsv                 -       2,519     320     2011-10-26  d8391da05c0328f7efaab906bafa4ec1
+
+    30985-0006-Data.txt                 653     2,519     320     2011-10-26  960817fa7992446c39e18d37d7a78454
+
+    30985-0006-Setup.dct                -       -         -       2011-10-26  7b8881b804291783fcbf840398ebec75
+
+    30985-0006-Setup.do                 -       -         -       2011-10-26  7b24abb2e6c71757f63926b23e4aa9ff
+
+    30985-0006-Setup.sas                -       -         -       2011-10-26  5e091284cda5bb6a61801333702a5715
+
+    30985-0006-Setup.sps                -       -         -       2011-10-26  43b935d83a87813119f309c0fac0fbd8
+
+    30985-0006-Supplemental_syntax.do   -       -         -       2011-10-26  2fddc7db8909447a6173f1e80b1a7c2a
+
+    30985-0006-Supplemental_syntax.sas  -       -         -       2011-10-26  8e620132ef2f773553e7b5165cd1417a
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30985-0007-Codebook.pdf             -       -         -       2011-10-26  37e511ac3d563aa6090c5d91c85cb7b5
+
+    30985-0007-Data.dta                 -       2,527     336     2011-10-26  0d845f07025d44ee0f1f33c5266dca67
+
+    30985-0007-Data.sav                 -       2,527     336     2011-10-26  9e1f764f621bec34393c70a14674c654
+
+    30985-0007-Data.stc                 -       2,527     336     2011-10-26  998698fa5d66d886908fc36ddb18bcb3
+
+    30985-0007-Data.tsv                 -       2,527     336     2011-10-26  15ee7bb13f238301dd6f7ce3d3539d53
+
+    30985-0007-Data.txt                 686     2,527     336     2011-10-26  ba2f6094e48064319bbed40876bc01b7
+
+    30985-0007-Setup.dct                -       -         -       2011-10-26  e439d209fe5b85bf365216d2a2ffdd99
+
+    30985-0007-Setup.do                 -       -         -       2011-10-26  66f867f2f0ae9f10bde233d53aa0af83
+
+    30985-0007-Setup.sas                -       -         -       2011-10-26  1643e5503b1266e53345adcd3d70245e
+
+    30985-0007-Setup.sps                -       -         -       2011-10-26  3a292122ea2027b1d8fc80c19e84d8d2
+
+    30985-0007-Supplemental_syntax.do   -       -         -       2011-10-26  59525ed3e584205a3aa1f446fc34d872
+
+    30985-0007-Supplemental_syntax.sas  -       -         -       2011-10-26  f176fcf3957ea36e00f3560b66194e9d
+

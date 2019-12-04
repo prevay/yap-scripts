@@ -1,0 +1,253 @@
+File Manifest for ICPSR 35218
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2013. ICPSR35218-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2015-03-26.
+http://doi.org/10.3886/ICPSR35218.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-descriptioncitation.pdf       -       -         -       2016-08-15  -
+
+    35218-related_literature.txt        -       -         -       daily       -
+
+    35218-manifest.txt                  -       -         -       daily       -
+
+    35218-User_guide.pdf                -       -         -       2015-03-26  3f9d006b6c2ea6618511818def498934
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0001-Codebook.pdf             -       -         -       2015-03-26  04461b3e14d3c3fcea45fa5608fd5250
+
+    35218-0001-Data.dta                 -       13,180    163     2015-03-26  47d6abe98db3b403583a184027e9b989
+
+    35218-0001-Data.rda                 -       13,180    163     2015-03-26  9b982c6ba3cda268cb9df1e407cfe436
+
+    35218-0001-Data.sav                 -       13,180    163     2015-03-26  ca84a24f69f40757ed5baa635e6bfb8b
+
+    35218-0001-Data.stc                 -       13,180    163     2015-03-26  61e2a84cf48a601c054f103f58e37469
+
+    35218-0001-Data.tsv                 -       13,180    163     2015-03-26  afc735fff3667252535f3ed11ad91c6d
+
+    35218-0001-Data.txt                 334     13,180    163     2015-03-26  086051050d0018a6ca680cf11fccbf66
+
+    35218-0001-Setup.dct                -       -         -       2015-03-26  072751de669f846324e37ec7c7b9ec95
+
+    35218-0001-Setup.do                 -       -         -       2015-03-26  6def77df74dade2a1d3728c2bae2de2d
+
+    35218-0001-Setup.sas                -       -         -       2015-03-26  0229363638f109b8db43003baf781b67
+
+    35218-0001-Setup.sps                -       -         -       2015-03-26  bbc7f893ee76279f8313f1c25291ef53
+
+    35218-0001-Supplemental_syntax.do   -       -         -       2015-03-26  c3e552232b5b81e32f59ed4540763c33
+
+    35218-0001-Supplemental_syntax.sas  -       -         -       2015-03-26  719d729bbe9ea3b43a81a6f36b955c35
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0002-Codebook.pdf             -       -         -       2015-03-26  7154194361dc98407b5c424b8642194e
+
+    35218-0002-Data.dta                 -       2,209     656     2015-03-26  5e4525c8da7d35b9d9d3ac509d23c05e
+
+    35218-0002-Data.rda                 -       2,209     656     2015-03-26  9edebef1579f2ed8424b408dccf06c18
+
+    35218-0002-Data.sav                 -       2,209     656     2015-03-26  77cd54fe60d4353d54866a4818c9b911
+
+    35218-0002-Data.stc                 -       2,209     656     2015-03-26  b745b991e07d49972c8beb3dd8e3134c
+
+    35218-0002-Data.tsv                 -       2,209     656     2015-03-26  be9b2df067006bd63f9bceb84a334a31
+
+    35218-0002-Data.txt                 1319    2,209     656     2015-03-26  cf8652d86da6468881bfc95a302c4524
+
+    35218-0002-Setup.dct                -       -         -       2015-03-26  c3da0b3dddada53a6a096aabdbc78ac3
+
+    35218-0002-Setup.do                 -       -         -       2015-03-26  201f34e8fb43458b25f8c437dd2bfa7a
+
+    35218-0002-Setup.sas                -       -         -       2015-03-26  7a55419e62a38c17e52129eaff284740
+
+    35218-0002-Setup.sps                -       -         -       2015-03-26  e4329bbbc0b78447b299a8055d8bc239
+
+    35218-0002-Supplemental_syntax.do   -       -         -       2015-03-26  72cc9a7addbdf6980bb85e9d1432b128
+
+    35218-0002-Supplemental_syntax.sas  -       -         -       2015-03-26  2f4995e7eea370cfb2b0769da215719a
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0003-Codebook.pdf             -       -         -       2015-03-26  3d4f98b3a9bc619b78d25fdb4aa40948
+
+    35218-0003-Data.dta                 -       2,204     330     2015-03-26  80b432febeed1f86385ad95a4b1bf44e
+
+    35218-0003-Data.rda                 -       2,204     330     2015-03-26  d0473b1ab89382909405899ad92da012
+
+    35218-0003-Data.sav                 -       2,204     330     2015-03-26  39a948e6dd1a41b556dc3b9218fd2bab
+
+    35218-0003-Data.stc                 -       2,204     330     2015-03-26  2e2c4bb3d365fdc3d87e170c2dd95ea9
+
+    35218-0003-Data.tsv                 -       2,204     330     2015-03-26  c3c354b4e5076d561049b5a453e2bf01
+
+    35218-0003-Data.txt                 667     2,204     330     2015-03-26  5329b4ebfa427443459dde62ed6b539c
+
+    35218-0003-Setup.dct                -       -         -       2015-03-26  654c02c7df9d644d9e5a925d45c9e285
+
+    35218-0003-Setup.do                 -       -         -       2015-03-26  b8ce0cf347ae07a076f6d75d65128c56
+
+    35218-0003-Setup.sas                -       -         -       2015-03-26  ae56458ca25b160af45877711a55a266
+
+    35218-0003-Setup.sps                -       -         -       2015-03-26  9bd9c3a5478a5fec0a34887aaf1a587f
+
+    35218-0003-Supplemental_syntax.do   -       -         -       2015-03-26  4fb178b3aca0df2b701eb05963dcb0a1
+
+    35218-0003-Supplemental_syntax.sas  -       -         -       2015-03-26  5a7171c37a175f56198c6d3171388e07
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0004-Codebook.pdf             -       -         -       2015-03-26  f0c63d5462aedb893c1e778ad2df77a3
+
+    35218-0004-Data.dta                 -       2,202     361     2015-03-26  e8238ec58388cb18c9c28516d84dbfbf
+
+    35218-0004-Data.rda                 -       2,202     361     2015-03-26  a652fea53ae7dcf5224aabb9401767f0
+
+    35218-0004-Data.sav                 -       2,202     361     2015-03-26  e8a9e01c3e0b1acc77214affce6c4112
+
+    35218-0004-Data.stc                 -       2,202     361     2015-03-26  683bf4076803969e3fa98a888dfbaa35
+
+    35218-0004-Data.tsv                 -       2,202     361     2015-03-26  669c4d31e77990e143abede9989a2747
+
+    35218-0004-Data.txt                 729     2,202     361     2015-03-26  95844250f683a6bb9ee2a9cf8955d186
+
+    35218-0004-Setup.dct                -       -         -       2015-03-26  74dd9229a047cd9bc8bdd713268357ed
+
+    35218-0004-Setup.do                 -       -         -       2015-03-26  629b26a2554b52dd51f7bc479d45cb8f
+
+    35218-0004-Setup.sas                -       -         -       2015-03-26  1ee14e7ca981d8c62b078c60c2b0301f
+
+    35218-0004-Setup.sps                -       -         -       2015-03-26  4f2f08fe4cf661363473040cece4a4e2
+
+    35218-0004-Supplemental_syntax.do   -       -         -       2015-03-26  0dcbc9d1a20b13f155d68c858c85b14d
+
+    35218-0004-Supplemental_syntax.sas  -       -         -       2015-03-26  2526e3ff90c322bbef1a91c2436eec7a
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0005-Codebook.pdf             -       -         -       2015-03-26  46e8969288d029fdf55610fcc0aaa15d
+
+    35218-0005-Data.dta                 -       2,190     271     2015-03-26  9a55290ce0f91f53712160b2ea559176
+
+    35218-0005-Data.rda                 -       2,190     271     2015-03-26  f3a2cbebb36520fea7fd6fce15b88042
+
+    35218-0005-Data.sav                 -       2,190     271     2015-03-26  e47c476457bb1c4c6e8a85ca7ac6647a
+
+    35218-0005-Data.stc                 -       2,190     271     2015-03-26  407d59f511e0e1886b5f14f745183c47
+
+    35218-0005-Data.tsv                 -       2,190     271     2015-03-26  de4e02730fc48f64d946de51049789ed
+
+    35218-0005-Data.txt                 549     2,190     271     2015-03-26  e875cef01c787cf2f96a142c60e234c4
+
+    35218-0005-Setup.dct                -       -         -       2015-03-26  46cf04d4db249f7515d0018408fc8865
+
+    35218-0005-Setup.do                 -       -         -       2015-03-26  271e26e1a98d06d26ef09d7daecd0626
+
+    35218-0005-Setup.sas                -       -         -       2015-03-26  581771f4c192a1bb616526999e599587
+
+    35218-0005-Setup.sps                -       -         -       2015-03-26  9245fd5af030ba4f43d4c5f7b68a5f64
+
+    35218-0005-Supplemental_syntax.do   -       -         -       2015-03-26  0b45431c4cbc289bd0afe0813430965b
+
+    35218-0005-Supplemental_syntax.sas  -       -         -       2015-03-26  10acc2bc6abd9d11350d0244383d4088
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0006-Codebook.pdf             -       -         -       2015-03-26  7c6879ab4d831c89fef769a750147e68
+
+    35218-0006-Data.dta                 -       2,186     309     2015-03-26  7f719062dbfb967ed722230a4507f41a
+
+    35218-0006-Data.rda                 -       2,186     309     2015-03-26  e6b4cbf9eed6b84417c433f40e8a7f7a
+
+    35218-0006-Data.sav                 -       2,186     309     2015-03-26  b9fe8104e3d9899e91cefca40b484bae
+
+    35218-0006-Data.stc                 -       2,186     309     2015-03-26  92b3b4f52097c162ef3f86dac34f90cb
+
+    35218-0006-Data.tsv                 -       2,186     309     2015-03-26  20928474b50bdcc3b43904ef77404c4d
+
+    35218-0006-Data.txt                 625     2,186     309     2015-03-26  7648c12fe43866e61dfad44ac718a3cc
+
+    35218-0006-Setup.dct                -       -         -       2015-03-26  909592db59be305c6a295408dba626df
+
+    35218-0006-Setup.do                 -       -         -       2015-03-26  7c3ac30c7a61af728081e160c229c098
+
+    35218-0006-Setup.sas                -       -         -       2015-03-26  3031bdb8155771d11235b3618bc72e96
+
+    35218-0006-Setup.sps                -       -         -       2015-03-26  d12e8e733b8327a3c75c727d455b8aec
+
+    35218-0006-Supplemental_syntax.do   -       -         -       2015-03-26  3d50e8c9da24ac934d7fc0b156401eac
+
+    35218-0006-Supplemental_syntax.sas  -       -         -       2015-03-26  67baa46a07c67fad53f53dd94f42960b
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35218-0007-Codebook.pdf             -       -         -       2015-03-26  1bcfca40f8e0ad2f9d6f8733d878c479
+
+    35218-0007-Data.dta                 -       2,189     337     2015-03-26  9cd79f165cce6eb334db3e4f6a23d9cf
+
+    35218-0007-Data.rda                 -       2,189     337     2015-03-26  06bf22b8b443b68e06cc62131df2f1ae
+
+    35218-0007-Data.sav                 -       2,189     337     2015-03-26  f2678b7fed049bacf54b0780dfe3b132
+
+    35218-0007-Data.stc                 -       2,189     337     2015-03-26  3a259013a775bb639a0751f5880c6a61
+
+    35218-0007-Data.tsv                 -       2,189     337     2015-03-26  0961d119c749dc6199510b82d653d698
+
+    35218-0007-Data.txt                 681     2,189     337     2015-03-26  4798934e07e9c3f4cb332e3d5b6d58e2
+
+    35218-0007-Setup.dct                -       -         -       2015-03-26  5feb73a838fac073f4a622ebba92b149
+
+    35218-0007-Setup.do                 -       -         -       2015-03-26  e38fd85d8ea0ef92ce32a2e0875e3de2
+
+    35218-0007-Setup.sas                -       -         -       2015-03-26  30b2a8afa28e5baa9e0e38069ddcf536
+
+    35218-0007-Setup.sps                -       -         -       2015-03-26  ea99cdb749223861e6b3fa801cfe66ca
+
+    35218-0007-Supplemental_syntax.do   -       -         -       2015-03-26  52ee48c22370550731b3e7cb9363d566
+
+    35218-0007-Supplemental_syntax.sas  -       -         -       2015-03-26  7103b30ff64587421912e0e469d1405a
+
+
+Version History
+
+2015-03-26 ICPSR created new dichotomous variables and placed them at the
+end of the core file.
