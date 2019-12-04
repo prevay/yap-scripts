@@ -5,7 +5,7 @@ import os
 
 def chart(varcodes, measure, labels=None, from_date=2014, to_date=2018, title=None):
 
-    plt.rcParams['figure.figsize'] = [10, 5]
+    plt.rcParams['figure.figsize'] = [9, 6]
 
     foldernames = ['DS0001', 'DS0002', 'DS0003', 'DS0004',
                    'DS0005', 'DS0006', 'DS0007']
