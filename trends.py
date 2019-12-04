@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
 import os
 
 
@@ -22,7 +21,7 @@ def chart(varcodes, measure, labels=None, from_date=2014, to_date=2018, title=No
             total_occurences = 0
             data_size = 0
             for foldername in foldernames:
-                filename = next(file for file in os.listdir('../Monitoring_the_Future/{0}/{1}/'.format(i, foldername))
+                filename = next(file for file in os.listdir('Monitoring_the_Future/{0}/{1}/'.format(i, foldername))
                                 if file.endswith('.tsv'))
                 with open('Monitoring_the_Future/{0}/{1}/{2}'.format(i, foldername, filename)) as f:
                     volume_df = pd.read_csv(f, sep='\t')
